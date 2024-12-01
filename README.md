@@ -10,23 +10,28 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-Alumni Mentorship Program:
+1.Alumni Mentorship Program:
 Match alumni with students based on criteria like industry, skills, or interests.
 Track mentorship goals, progress, and session outcomes.
 Calendar integrations for session scheduling.
-Crowdfunding and Donation Hub:
+
+2.Crowdfunding and Donation Hub:
 Alumni can fund student projects, startups, or institutional initiatives.
 Real-time tracking of donation impacts.
-Skills Marketplace:
+
+3.Skills Marketplace:
 Alumni can offer workshops, courses, or freelance projects.
 Certifications issued for course completion.
-Engagement Gamification:
+
+4.Engagement Gamification:
 Alumni earn rewards for donations, event participation, or mentorship activities.
 Leaderboards and challenges to increase activity.
-Community Networking:
+
+5.Community Networking:
 Geo-location-based meetups and travel networking for alumni in similar regions.
 Digital memory-sharing through videos, photos, and podcasts.
-Success Tracking:
+
+6.Success Tracking:
 Highlight alumni career achievements and their contributions.
 Analytics on alumni career trends to improve institutional programs.
 
