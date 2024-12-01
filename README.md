@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 01.12.2024
+## Register Number: 24900073
+## Name: Anjali K
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,49 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Alumni Mentorship Program:
+Match alumni with students based on criteria like industry, skills, or interests.
+Track mentorship goals, progress, and session outcomes.
+Calendar integrations for session scheduling.
+Crowdfunding and Donation Hub:
+Alumni can fund student projects, startups, or institutional initiatives.
+Real-time tracking of donation impacts.
+Skills Marketplace:
+Alumni can offer workshops, courses, or freelance projects.
+Certifications issued for course completion.
+Engagement Gamification:
+Alumni earn rewards for donations, event participation, or mentorship activities.
+Leaderboards and challenges to increase activity.
+Community Networking:
+Geo-location-based meetups and travel networking for alumni in similar regions.
+Digital memory-sharing through videos, photos, and podcasts.
+Success Tracking:
+Highlight alumni career achievements and their contributions.
+Analytics on alumni career trends to improve institutional programs.
 
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-12-01 094253](https://github.com/user-attachments/assets/d0c89183-215c-44e3-876a-b1f9a39d1439)
 
 
 ## Use Cases
+![Screenshot 2024-12-01 103132](https://github.com/user-attachments/assets/ab477407-f9a0-41d1-88f8-a2d80aa1679f)
 
 
 ## Technology Stack
-
+Frontend:
+React.js/Flutter
+Redux/Context API (state management)
+Tailwind CSS/Material UI (styling)
+Backend:
+Node.js (Express.js framework)
+Django or Spring Boot as alternatives
+Database:
+PostgreSQL/MySQL for relational data
+MongoDB for dynamic records
 
 ## Dependencies
-
+Frontend Development: 20 days
+Backend Development: 25 days
+Testing and Integration: 10 days
+Budget Estimate: ₹60,000
